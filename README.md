@@ -31,7 +31,7 @@ In the moment I'm focusing on data analysis and data science. Focusing on SQL, P
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/)-->
 
 # Fun fact:⚡
-I Have a [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plantour) that talks about plants, the [@plantour](https://tiktok.com/@plantour).</br>
+I Have a [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@plant.tour) that talks about plants, the [@plant.tour](https://tiktok.com/@plant.tour).</br>
 As a serious hobby, I like to cultivate plants. Now I own almost 300 plants from 226 different species, most native. Sometime I take some off the native plants cuttings and plant them on park and nature, tryint to restore the vegetatio  around me.
 <!--I Also make mead, so you can follow in [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png) @hidromeldovampiro. -->
 
